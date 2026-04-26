@@ -4,7 +4,7 @@ Este repositorio contiene el primer proyecto de pagina Web. Trabajo de Programac
 
 ## Publicación de la Página.
 
-La página del proyecto se encuentra aquí: https://mat-ds-04.github.io/TP-1-Prog3/
+La página del proyecto se encuentra aquí: <target _blank> https://mat-ds-04.github.io/TP-1-Prog3/
 
 # Estructurización.
 
